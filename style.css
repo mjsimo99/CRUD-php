@@ -1,0 +1,36 @@
+.navbar-expand-lg {
+    background-color: #e3f2fd;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-link{
+    margin-left: 39rem;
+}
+
+.container {
+    margin-top: 3%;
+}
+.affiche{
+    padding: 30px;
+    margin-left: 30%;
+    margin-top: 15%;
+    margin-bottom: 12.2%;
+    margin-right: 30%;
+    border: solid 5px aqua;
+}
+footer {
+    padding: 3px;
+    bottom: 0; left: 0; right: 0;
+    width: 100%;
+    background-color: #e3f2fd;
+    color: black;
+    text-align: center;
+ 
+    /* height: calc(50vh - 194px); */
+  }
+form{
+    margin-bottom: 30px;
+}
